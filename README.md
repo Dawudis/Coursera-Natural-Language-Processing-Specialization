@@ -6,4 +6,4 @@ It's worth noting that: <br />
 - Not all the provided solutions are correct, but each assignment has reached a passing grade or above. <br />
 - Coursera/DeepLearning.AI updates these courses regularly — so some answers may not be applicable to versions after this date of completion. <br />
 <br />
-Feel free to use the provided codes for reference or for assitance. 
+Feel free to use the provided codes for reference or for assistance. 
