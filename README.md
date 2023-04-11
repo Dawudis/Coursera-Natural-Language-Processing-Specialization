@@ -1,6 +1,6 @@
 # Coursera-Natural-Language-Processing-Specialization
 ## Introduction
-This repository contains the solutions for DeepLearning.AI's Natural Language Processing [Specialization]([url](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)) course given through [Coursera]([url](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesNLPTopButton)). <br />
+This repository contains the solutions for DeepLearning.AI's Natural Language Processing Specialization course given through Coursera. <br />
 <br />
 It's worth noting that: <br />
 - Not all the provided solutions are correct, but each assignment has reached a passing grade or above. <br />
