@@ -7,9 +7,8 @@ It's worth noting that: <br />
 - Coursera/DeepLearning.AI updates these courses regularly — so some answers may not be applicable to versions after this date of completion. <br />
 <br />
 Feel free to use the provided codes for reference or for assistance. 
-<br />
+
 ## About the Course
-<br />
 A little bit about the course (from deeplearning.ai):
 <br />
 "In the Natural Language Processing (NLP) Specialization, you will learn how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, summarize text, and even build chatbots. These and other NLP applications will be at the forefront of the coming transformation to an AI-powered future.
